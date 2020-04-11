@@ -4,7 +4,7 @@
 
 Данные в каждой строке соответствуют числу **новых** выявленных случаев.
 
-./data/Russia_regions_covid_daily_data.csv
+`./data/Russia_regions_covid_daily_data.csv`
 
 19.03.2020 https://www.rospotrebnadzor.ru/about/info/news/news_details.php?ELEMENT_ID=14060
 
