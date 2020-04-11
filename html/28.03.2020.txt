@@ -1,0 +1,408 @@
+
+
+
+
+
+
+
+
+
+
+
+if(!window.BX)window.BX={message:function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;}};(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','USER_ID':'','SERVER_TIME':'1586525442','SERVER_TZ_OFFSET':'10800','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'97ac6a8fe032970776eb953acfbc0a1a','SITE_ID':'s1'});(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});
+
+
+
+
+BX.setCSSList(['/bhome/part3/03/vh45565/rospotrebnadzor.host.ru/www/bitrix/js/main/core/css/core.css','/bhome/part3/03/vh45565/rospotrebnadzor.host.ru/www/bitrix/js/main/core/css/core_popup.css','/bhome/part3/03/vh45565/rospotrebnadzor.host.ru/www/bitrix/js/main/core/css/core_date.css','/bitrix/js/main/core/css/core.css','/bitrix/js/main/core/css/core_popup.css','/bitrix/js/main/core/css/core_date.css','/bitrix/js/main/core/css/core_tooltip.css']); 
+BX.setJSList(['/bhome/part3/03/vh45565/rospotrebnadzor.host.ru/www/bitrix/js/main/core/core.js','/bhome/part3/03/vh45565/rospotrebnadzor.host.ru/www/bitrix/js/main/core/core_ajax.js','/bhome/part3/03/vh45565/rospotrebnadzor.host.ru/www/bitrix/js/main/session.js','/bhome/part3/03/vh45565/rospotrebnadzor.host.ru/www/bitrix/js/main/core/core_fx.js','/bhome/part3/03/vh45565/rospotrebnadzor.host.ru/www/bitrix/js/main/core/core_window.js','/bhome/part3/03/vh45565/rospotrebnadzor.host.ru/www/bitrix/js/main/utils.js','/bhome/part3/03/vh45565/rospotrebnadzor.host.ru/www/bitrix/js/main/core/core_popup.js','/bhome/part3/03/vh45565/rospotrebnadzor.host.ru/www/bitrix/js/main/core/core_date.js','/bhome/part3/03/vh45565/rospotrebnadzor.host.ru/www/bitrix/js/main/json/json2.min.js','/bhome/part3/03/vh45565/rospotrebnadzor.host.ru/www/bitrix/js/main/core/core_ls.js','/bhome/part3/03/vh45565/rospotrebnadzor.host.ru/www/bitrix/js/main/rating_like.js','/bhome/part3/03/vh45565/rospotrebnadzor.host.ru/www/bitrix/js/main/core/core_dd.js','/bitrix/js/main/core/core.js','/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/session.js','/bitrix/js/main/core/core_fx.js','/bitrix/js/main/core/core_window.js','/bitrix/js/main/utils.js','/bitrix/js/main/core/core_popup.js','/bitrix/js/main/core/core_date.js','/bitrix/js/main/core/core_tooltip.js','/bitrix/js/main/core/core_dd.js','/bhome/part3/03/vh45565/rospotrebnadzor.host.ru/www/bitrix/js/altasib.up/script_jq.js','/bitrix/js/altasib.up/script_jq.js']); 
+
+bxSession.Expand(1440, '97ac6a8fe032970776eb953acfbc0a1a', false, 'a1d8b6df84a945126a1b982ae5e1f6f7');
+
+altasib_up_button='/bitrix/images/altasib.up/button/16.png'; altasib_up_pos ='3';altasib_up_pos_xy = '10'
+
+
+
+
+
+
+
+
+
+
+
+
+
+О подтвержденных случаях новой коронавирусной инфекции COVID-2019 в России
+
+
+
+
+
+
+
+Телефонная справочная линия
+Отправить обращение
+Карта сайта
+RSS лента
+
+
+ 
+ 
+ Версия для слабовидящих
+Eng
+
+
+
+ 
+ 
+
+
+ФЕДЕРАЛЬНАЯ СЛУЖБА  ПО НАДЗОРУ В СФЕРЕ  ЗАЩИТЫ 
+ ПРАВ ПОТРЕБИТЕЛЕЙ  И БЛАГОПОЛУЧИЯ ЧЕЛОВЕКА 
+
+ 
+
+
+
+
+
+
+
+
+
+var jsControl = new JCTitleSearch({
+	//'WAIT_IMAGE': '/bitrix/themes/.default/images/wait.gif',
+	'AJAX_PAGE' : '/about/info/news/news_details.php?ELEMENT_ID=14132',
+	'CONTAINER_ID': 'searchTitle',
+	'INPUT_ID': 'title-search-input',
+	'MIN_QUERY_LEN': 2
+});
+
+
+
+
+
+
+
+
+
+РОСПОТРЕБНАДЗОР
+
+
+
+Руководство
+Структура
+Функции и полномочия
+История
+Обращения граждан
+Пресс-служба
+Общественный совет
+Контакты
+Для сотрудников
+
+
+
+
+ДЕЯТЕЛЬНОСТЬ
+
+
+
+Эпидемиологический надзор
+Санитарный надзор
+Защита прав потребителей
+Организация деятельности
+Государственная служба и кадры
+
+
+
+
+
+Международное сотрудничество
+Научное обеспечение
+Деятельность в рамках ВТО
+Деятельность в рамках Таможенного союза
+Перечень санитарно-карантинных пунктов 
+
+
+
+ ДОКУМЕНТЫ
+
+
+
+Постановления
+Приказы
+Письма
+Методические документы
+Протоколы
+Решения
+Проекты документов
+
+
+
+
+Федеральные законы
+Постановления Правительства РФ
+Административные регламенты
+Государственные доклады
+Санитарные правила
+Прочие документы
+
+
+
+КОНТРОЛЬ И НАДЗОР
+
+
+
+Надзор в области санитарно-эпидемиологического благополучия
+Надзор в области защиты прав потребителей
+Положения и регламенты
+Техническое регулирование
+
+
+
+
+
+
+ГОСУДАРСТВЕННЫЕ УСЛУГИ
+
+
+
+Государственная регистрация продукции
+Лицензирование отдельных видов деятельности
+Выдача санитарно-эпидемиологических заключений
+Прием уведомлений о начале осуществления предпринимательской деятельности
+
+Реестры
+
+Отчеты
+
+
+
+
+
+ДЛЯ ГРАЖДАН
+
+
+
+Общественная приемная
+Обращения граждан
+Информационные ресурсы по защите прав потребителей
+Нормативно-правовая база
+Телефонная справочная линия
+Полезная информация
+
+
+
+
+
+
+
+
+
+
+
+
+О подтвержденных случаях новой коронавирусной инфекции COVID-2019 в России
+
+
+
+
+28.03.2020 г.
+За последние сутки в России подтверждено 228 случаев новой коронавирусной инфекции в 26 регионах.
+Распределение по регионам: 
+
+
+ 
+1.     Москва
+ 
+114
+ 
+ 
+2.     Московская область
+ 
+36
+ 
+ 
+3.     Санкт-Петербург
+ 
+11
+ 
+ 
+4.     Краснодарский край
+ 
+8
+ 
+ 
+5.     Республика Бурятия
+ 
+6
+ 
+ 
+6.     Ивановская область
+ 
+5
+ 
+ 
+7.     Ленинградская область
+ 
+4
+ 
+ 
+8.     Свердловская область
+ 
+4
+ 
+ 
+9.     Челябинская область
+ 
+4
+ 
+ 
+10.                       Красноярский край
+ 
+4
+ 
+ 
+11.                       Сахалинская область
+ 
+4
+ 
+ 
+12.                       Липецкая область
+ 
+3
+ 
+ 
+13.                       Тульская область
+ 
+3
+ 
+ 
+14.                       Калининградская область
+ 
+3
+ 
+ 
+15.                       Республика Татарстан
+ 
+3
+ 
+ 
+16.                       Нижегородская область
+ 
+3
+ 
+ 
+17.                       Чеченская Республика
+ 
+2
+ 
+ 
+18.                       Оренбургская область
+ 
+2
+ 
+ 
+19.                       Новосибирская область
+ 
+2
+ 
+ 
+20.                       Брянская область
+ 
+1
+ 
+ 
+21.                       Костромская область
+ 
+1
+ 
+ 
+22.                       Смоленская область
+ 
+1
+ 
+ 
+23.                       Республика Адыгея
+ 
+1
+ 
+ 
+24.                       Пермский край
+ 
+1
+ 
+ 
+25.                       Саратовская область
+ 
+1
+ 
+ 
+26.                       Республика Крым
+ 
+1
+ 
+
+
+
+
+
+ 
+По данным эпидемиологического расследования установлено, что граждане посещали страны, неблагополучные по коронавирусной инфекции, в последние две недели. Все госпитализированные находятся в инфекционных боксах. Результаты подтверждены в установленном порядке.
+Определён круг лиц, с которыми они контактировали. Ведётся работа по помещению контактных лиц под медицинское наблюдение. Проводится их лабораторное обследование.
+Всего в России на сегодняшний день зарегистрировано 1264 случая коронавирусной инфекции. За весь период выписано по выздоровлению 49 человек.
+С момента получения информации о распространении новой коронавирусной инфекции гражданам было рекомендовано воздержаться от посещения стран с неблагополучной эпидемиологической ситуацией. В настоящее время распространение инфекции на территории России связано с завозами из стран Европейского региона. Напоминаем о необходимости строго соблюдать правила изоляции после возвращения из-за рубежа в течение 14 дней.
+Всем гражданам, а особенно лицам группы риска (пожилым, людям с хроническими заболеваниями) максимально сократить посещение общественных мест, соблюдать правила личной гигиены, при ухудшении самочувствия остаться дома и обратиться за медицинской помощью.
+Ситуация находится на контроле Оперативного штаба по предупреждению завоза и распространения новой коронавирусной инфекции на территории Российской Федерации.
+
+
+
+
+
+
+
+
+
+
+Главная | Cписок новостей
+
+
+
+
+
+
+
+
+
+
+
+© « Федеральная служба по надзору в сфере
+ защиты прав потребителей и благополучия 
+человека»  2020
+
+
+Почтовый адрес:
+ Вадковский переулок дом 18, строение 5 и 7г. Москва, 127994
+Контакты
+Телефон для справок:
+ 8 (499) 973-26-90Электронная почта
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	 var mkgu_widget_param = { au : '10000001082', color: '#FF0000' }; 
+
+
+
