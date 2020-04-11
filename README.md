@@ -2,6 +2,8 @@
 
 Данные получены с сайта Роспотребнадзора.
 
+Данные в каждой строке соответствуют числу **новых** выявленных случаев.
+
 19.03.2020 https://www.rospotrebnadzor.ru/about/info/news/news_details.php?ELEMENT_ID=14060
 
 20.03.2020 https://www.rospotrebnadzor.ru/about/info/news/news_details.php?ELEMENT_ID=14070
