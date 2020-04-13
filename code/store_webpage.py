@@ -9,5 +9,5 @@ if __name__ == "__main__":
     response = requests.get(url)
     soup = BeautifulSoup(response.text, "html.parser")
 
-    with open(f'../html/{date}.txt', 'w') as f:
+    with open(f'../data/html/{date}.txt', 'w') as f:
         f.write(soup.text)
