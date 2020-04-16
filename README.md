@@ -62,3 +62,4 @@
 
 15.04.2020 https://www.rospotrebnadzor.ru/about/info/news/news_details.php?ELEMENT_ID=14251
 
+16.04.2020 https://www.rospotrebnadzor.ru/about/info/news/news_details.php?ELEMENT_ID=14258
